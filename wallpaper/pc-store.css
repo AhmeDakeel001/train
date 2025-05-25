@@ -1,0 +1,90 @@
+
+body {
+    height: 2000px;
+    font-family: "Roboto", sans-serif;
+}
+
+/* Header start */
+
+nav {
+    border: 1px solid black;
+    box-shadow: 2px 2px 12px 1px black;
+    background-color: white;
+}
+
+header nav ul li {
+    display: inline-block;
+    width: 70px;
+    height:20px;
+    padding: 4px;
+    text-align: center;
+    border-radius: 7px;
+    margin: 0px 5px;
+
+    border: 1px solid black;
+}
+
+header nav a {
+    text-decoration: none;
+    color: black;
+
+}
+
+header .logo {
+    margin-right: 25%;
+}
+/* Header end */
+
+/* Section - 1 start */
+.sec-1 {
+    width: 600px; 
+    height: 200px;
+    margin: 30px auto;
+    padding: 20px;
+    box-shadow: 2px 2px 12px black;
+
+    border: 1px solid black;
+}
+
+.sec-1 .div-1 {
+    display: block;
+    width: 40%;
+    height: 100px;
+    font-size: 45px;
+    margin: auto;
+    text-align: center;
+
+
+    /* border: 1px solid black; */
+}
+
+.sec-1 span {
+    font-size: 15px;
+    width: fit-content;
+    margin: 5px auto;
+    display: block;
+    
+    /* border: 1px solid black; */
+}
+
+.sec-1 .div-2 {
+    width: fit-content;
+    margin: 20px auto;
+
+    /* border: 1px solid black; */
+}
+
+/* Section - 1 end */
+
+/* Section - 2 start */
+.sec-2 {
+    width: 600px;
+    height: 600px;
+    padding: 20px;
+    margin: auto;
+
+    border: 1px solid black;
+}
+
+
+/* Section - 2 end */
